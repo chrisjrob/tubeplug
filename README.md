@@ -4,6 +4,8 @@ Tube Plugs
 Description
 -----------
 
+OpenSCAD design for replacement rubber feet / plugs.
+
 This is an OpenSCAD design for the replacement for the rubber feet or plugs that fit into cut tube or piping.
 
 Fully parametric.
