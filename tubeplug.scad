@@ -1,3 +1,8 @@
+// tubeplug.scad
+// Tube Plug or Chair Feet
+// 
+// Copyright 2013 Christopher Roberts
+
 // This should be the only variable that needs changing for different tube sizes
 // Should be equal to the diameter of the outside of your tube
 cap_diameter        = 25;
